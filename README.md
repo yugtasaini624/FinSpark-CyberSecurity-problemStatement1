@@ -171,38 +171,31 @@ AegisVault-AI
 
 # 📸 Project Screenshots
 
-## Landing Page & Login
-
 <p align="center">
 <img src="screenshots/home.png" width="48%">
-<img src="screenshots/ScreenShot (561).png" width="48%">
+<img src="screenshots/ScreenShot(561).png" width="48%">
 </p>
 
 ---
 
-## Employee Dashboard & Admin Dashboard
 
 <p align="center">
-<img src="screenshots/employee-dashboard.png" width="48%">
-<img src="screenshots/admin-dashboard.png" width="48%">
+<img src="screenshots/ScreenShot(562).png" width="48%">
+<img src="screenshots/ScreenShot(563).png" width="48%">
 </p>
 
 ---
 
-## Employee Investigation & AI Investigation
-
 <p align="center">
-<img src="screenshots/investigation.png" width="48%">
-<img src="screenshots/ai-report.png" width="48%">
+<img src="screenshots/ScreenShot(564).png" width="48%">
+<img src="screenshots/ScreenShot(565).png" width="48%">
 </p>
 
 ---
 
-## Evidence Viewer & Live Incident Feed
-
 <p align="center">
-<img src="screenshots/evidence.png" width="48%">
-<img src="screenshots/live-feed.png" width="48%">
+<img src="screenshots/ScreenShot(566).png" width="48%">
+<img src="screenshots/ScreenShot(567).png" width="48%">
 </p>
 
 ---
