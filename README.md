@@ -243,7 +243,7 @@ Employees can:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AegisVault-AI.git
+git clone https://github.com/yugtasaini624/FinSpark-CyberSecurity-problemStatement1/.git
 ```
 
 ---
