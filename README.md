@@ -173,14 +173,14 @@ AegisVault-AI
 
 <p align="center">
 <img src="screenshots/home.png" width="48%">
-<img src="screenshots/ScreenShot(561).png" width="48%">
+<img src="screenshots/img1.png" width="48%">
 </p>
 
 ---
 
 
 <p align="center">
-<img src="screenshots/ScreenShot(562).png" width="48%">
+<img src="screenshots/img2.png" width="48%">
 <img src="screenshots/ScreenShot(563).png" width="48%">
 </p>
 
