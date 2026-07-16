@@ -1,0 +1,154 @@
+.employee-list-card{
+
+    background:#0b1628;
+
+    border:1px solid #1e293b;
+
+    border-radius:18px;
+
+    padding:25px;
+
+}
+
+
+.section-title h2{
+
+    margin-bottom:20px;
+
+}
+
+
+
+.employee-row{
+
+    display:grid;
+
+    grid-template-columns:2fr 1fr 100px 1.2fr;
+
+    align-items:center;
+
+    gap:15px;
+
+    padding:15px 0;
+
+    border-bottom:1px solid #1e293b;
+
+}
+
+
+
+.employee-info{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
+}
+
+
+
+.employee-avatar{
+
+    width:42px;
+
+    height:42px;
+
+    border-radius:50%;
+
+    background:#11263d;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    color:#00d4ff;
+
+}
+
+
+
+.employee-info h4{
+
+    margin:0;
+
+}
+
+
+
+.employee-info span{
+
+    color:#94a3b8;
+
+    font-size:13px;
+
+}
+
+
+
+.risk{
+
+    padding:6px 12px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    font-size:13px;
+
+}
+
+
+
+.high{
+
+    background:#3f1111;
+
+    color:#ff6b6b;
+
+}
+
+
+
+.medium{
+
+    background:#3a2a0b;
+
+    color:#facc15;
+
+}
+
+
+
+.low{
+
+    background:#0b3622;
+
+    color:#4ade80;
+
+}
+
+
+
+.status{
+
+    color:#cbd5e1;
+
+    font-size:14px;
+
+}
+
+
+
+@media(max-width:900px){
+
+    .employee-row{
+
+        grid-template-columns:1fr;
+
+    }
+
+}

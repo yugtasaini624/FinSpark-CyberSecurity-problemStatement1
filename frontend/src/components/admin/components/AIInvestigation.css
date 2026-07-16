@@ -1,0 +1,105 @@
+.ai-investigation-card{
+
+    background:#0b1628;
+
+    border:1px solid #1e293b;
+
+    border-radius:18px;
+
+    padding:25px;
+
+}
+
+
+
+.ai-header{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
+    color:#00d4ff;
+
+}
+
+
+
+.ai-header svg{
+
+    font-size:28px;
+
+}
+
+
+
+.ai-status{
+
+    margin:25px 0;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    background:#351515;
+
+    padding:14px;
+
+    border-radius:12px;
+
+    color:#f87171;
+
+}
+
+
+
+.ai-details p{
+
+    color:#cbd5e1;
+
+    line-height:1.8;
+
+}
+
+
+
+.ai-details strong{
+
+    color:white;
+
+}
+
+
+
+.investigate-btn{
+
+    margin-top:20px;
+
+    width:100%;
+
+    padding:12px;
+
+    border:none;
+
+    border-radius:10px;
+
+    background:#00d4ff;
+
+    color:#001018;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+}
+
+
+
+.investigate-btn:hover{
+
+    opacity:0.8;
+
+}

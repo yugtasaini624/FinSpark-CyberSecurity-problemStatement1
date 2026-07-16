@@ -1,0 +1,152 @@
+.admin-dashboard{
+
+    min-height:100vh;
+    background:#050b18;
+    color:white;
+    padding-bottom:40px;
+
+}
+
+
+.dashboard-content{
+
+    padding:30px 40px;
+
+}
+
+
+.dashboard-header{
+
+    margin-bottom:35px;
+
+}
+
+
+.dashboard-header h1{
+
+    font-size:32px;
+    font-weight:700;
+    margin-bottom:10px;
+
+    background:linear-gradient(
+        90deg,
+        #00d4ff,
+        #7c3aed
+    );
+
+    -webkit-background-clip:text;
+    background-clip:text;
+
+    -webkit-text-fill-color:transparent;
+    color:transparent;
+
+}
+
+.dashboard-header p{
+
+    color:#94a3b8;
+    font-size:16px;
+
+}
+
+
+
+/* MAIN DASHBOARD GRID */
+
+.dashboard-grid{
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(12,1fr);
+
+    gap:25px;
+
+}
+
+
+
+/* Employee List */
+
+.dashboard-grid > :nth-child(1){
+
+    grid-column:span 8;
+
+}
+
+
+
+/* Risk Meter */
+
+.dashboard-grid > :nth-child(2){
+
+    grid-column:span 4;
+
+}
+
+
+
+/* Timeline */
+
+.dashboard-grid > :nth-child(3){
+
+    grid-column:span 6;
+
+}
+
+
+
+/* Evidence Gallery */
+
+.dashboard-grid > :nth-child(4){
+
+    grid-column:span 6;
+
+}
+
+
+
+/* AI Investigation */
+
+.dashboard-grid > :nth-child(5){
+
+    grid-column:span 7;
+
+}
+
+
+
+/* Approval Card */
+
+.dashboard-grid > :nth-child(6){
+
+    grid-column:span 5;
+
+}
+
+
+
+
+@media(max-width:1100px){
+
+    .dashboard-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+
+    .dashboard-grid > *{
+
+        grid-column:span 1 !important;
+
+    }
+
+
+    .dashboard-content{
+
+        padding:20px;
+
+    }
+
+}

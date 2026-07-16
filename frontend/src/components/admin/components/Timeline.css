@@ -1,0 +1,121 @@
+.timeline-card{
+
+    background:#0b1628;
+
+    border:1px solid #1e293b;
+
+    border-radius:18px;
+
+    padding:25px;
+
+}
+
+
+
+.timeline-card h2{
+
+    margin-bottom:25px;
+
+}
+
+
+
+.timeline{
+
+    position:relative;
+
+    padding-left:25px;
+
+}
+
+
+
+.timeline::before{
+
+    content:"";
+
+    position:absolute;
+
+    left:7px;
+
+    top:0;
+
+    height:100%;
+
+    width:2px;
+
+    background:#1e293b;
+
+}
+
+
+
+.timeline-item{
+
+    position:relative;
+
+    margin-bottom:25px;
+
+}
+
+
+
+.timeline-dot{
+
+    position:absolute;
+
+    left:-25px;
+
+    top:5px;
+
+    width:14px;
+
+    height:14px;
+
+    border-radius:50%;
+
+    background:#00d4ff;
+
+}
+
+
+
+.timeline-content{
+
+    background:#111827;
+
+    padding:15px;
+
+    border-radius:12px;
+
+}
+
+
+
+.timeline-content span{
+
+    color:#00d4ff;
+
+    font-size:13px;
+
+}
+
+
+
+.timeline-content h4{
+
+    margin:8px 0;
+
+}
+
+
+
+.timeline-content p{
+
+    margin:0;
+
+    color:#94a3b8;
+
+    font-size:14px;
+
+}
