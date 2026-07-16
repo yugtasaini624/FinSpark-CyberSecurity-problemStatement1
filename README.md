@@ -181,21 +181,21 @@ AegisVault-AI
 
 <p align="center">
 <img src="screenshots/img2.png" width="48%">
-<img src="screenshots/ScreenShot(563).png" width="48%">
+<img src="screenshots/img3.png" width="48%">
 </p>
 
 ---
 
 <p align="center">
-<img src="screenshots/ScreenShot(564).png" width="48%">
-<img src="screenshots/ScreenShot(565).png" width="48%">
+<img src="screenshots/img4.png" width="48%">
+<img src="screenshots/img5.png" width="48%">
 </p>
 
 ---
 
 <p align="center">
-<img src="screenshots/ScreenShot(566).png" width="48%">
-<img src="screenshots/ScreenShot(567).png" width="48%">
+<img src="screenshots/img6.png" width="48%">
+<img src="screenshots/img7.png" width="48%">
 </p>
 
 ---
